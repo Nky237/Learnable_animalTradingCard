@@ -31,10 +31,12 @@
 .animal-info {
   border: 1px solid #ccc;
   padding: 10px;
+  line-height: 1.8rem;
 }
 
 .interesting-fact {
   font-style: italic;
+  font-weight: 500;
 }
 
 .animal-item-label {
