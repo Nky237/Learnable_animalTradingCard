@@ -31,7 +31,7 @@
 .animal-info {
   border: 1px solid #ccc;
   padding: 10px;
-  line-height: 1.5rem;
+  line-height: 2.0rem;
 }
 
 .interesting-fact {
@@ -91,4 +91,9 @@ label{
   content:'Show Less';
   display: block;
   visibility: visible;
+}
+@media only screen and (max-width:760px){
+  .animal-info {
+    line-height: 1.5rem;
+  }
 }
