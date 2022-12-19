@@ -15,7 +15,7 @@
     border-radius: 15px;
     background-image: linear-gradient(rgba(0, 0, 0, 0.59), rgba(0, 0, 0, 0.7)), url(https://source.unsplash.com/random/1920x1080/?rat);
    background-size: cover;
-    min-height: 70vh;
+    min-height: 22rem;
     max-width: 400px;
     position: absolute;
     top: 50%;
