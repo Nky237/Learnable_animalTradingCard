@@ -46,6 +46,10 @@
   margin: auto;
   text-align: center;
 }
+.box-img{
+  height: 200px;
+   width: 300px
+}
 img{
   margin: auto;
   border-radius: 50%;
@@ -93,6 +97,12 @@ label{
   visibility: visible;
 }
 @media only screen and (max-width:760px){
+  .box{
+    width: 300px;
+  }
+  .box-img{
+    width: 210px;
+  }
   .animal-info {
     line-height: 1.7rem;
     font-size: 12px;
